@@ -1,5 +1,6 @@
+import './App.css';
 import { Route, Routes } from "react-router-dom";
-import AddUser from './Components/AddUser/AddUser'
+import AddUser from './Components/AddUser/AddUser';
 import Home from "./Components/Home/Home";
 
 function App() {
